@@ -1,1 +1,3 @@
-# test-repo-another
+# Test Repo
+
+This is a test repository.
